@@ -4,7 +4,7 @@ html {
 
 body {
     height: 100%;
-    background-color:turquoise;
+    background-color: turquoise;
     color: white;
     
 }
@@ -24,4 +24,18 @@ a {
 .row {
     display: flex;
     justify-content: space-around;
+    border: 2.5px solid black;
+}
+
+
+h1 {
+text-align: center;
+}
+
+#logo {
+    width: 100%;
+}
+
+.bottom {
+    color: black;
 }

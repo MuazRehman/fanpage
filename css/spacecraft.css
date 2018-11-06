@@ -1,0 +1,37 @@
+body {
+    background-color: turquoise;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
+
+p {
+    text-align: center;
+}
+
+.o {
+    display:flex;
+    justify-content: center;  
+}
+
+.j {
+    display:flex;
+    justify-content: center;  
+}
+
+.v1 {
+    display:flex;
+    justify-content: center;  
+}
+
+.v2 {
+    display:flex;
+    justify-content: center;  
+}

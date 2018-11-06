@@ -1,0 +1,23 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background-color: turquoise;
+    color: black;
+}
+
+.main {
+    height: 100%;
+}
+
+.social-image{
+    width: 30px;
+    margin: 15px;
+}
+
+h1 {
+text-align: center;
+}
+
